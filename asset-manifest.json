@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tusharweb/static/css/main.985dc135.chunk.css",
+    "main.js": "/tusharweb/static/js/main.369f8815.chunk.js",
+    "main.js.map": "/tusharweb/static/js/main.369f8815.chunk.js.map",
+    "runtime-main.js": "/tusharweb/static/js/runtime-main.75fe6ba1.js",
+    "runtime-main.js.map": "/tusharweb/static/js/runtime-main.75fe6ba1.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/tusharweb/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.985a976a.chunk.js": "/tusharweb/static/js/2.985a976a.chunk.js",
+    "static/js/2.985a976a.chunk.js.map": "/tusharweb/static/js/2.985a976a.chunk.js.map",
+    "index.html": "/tusharweb/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/tusharweb/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.985dc135.chunk.css.map": "/tusharweb/static/css/main.985dc135.chunk.css.map",
+    "static/js/2.985a976a.chunk.js.LICENSE.txt": "/tusharweb/static/js/2.985a976a.chunk.js.LICENSE.txt",
+    "static/media/Aboutimg1.3a20b170.svg": "/tusharweb/static/media/Aboutimg1.3a20b170.svg",
+    "static/media/cricketimg.47e3947d.jpg": "/tusharweb/static/media/cricketimg.47e3947d.jpg",
+    "static/media/footballimage.ac8aa6e5.jpg": "/tusharweb/static/media/footballimage.ac8aa6e5.jpg",
+    "static/media/hockeyimg.42434c3f.jpg": "/tusharweb/static/media/hockeyimg.42434c3f.jpg",
+    "static/media/homeimg1.6f30acf0.svg": "/tusharweb/static/media/homeimg1.6f30acf0.svg",
+    "static/media/myself.66464e35.jpeg": "/tusharweb/static/media/myself.66464e35.jpeg",
+    "static/media/rugbyimg.59d23de7.jpg": "/tusharweb/static/media/rugbyimg.59d23de7.jpg",
+    "static/media/volleyballimg.5e3cec89.jpg": "/tusharweb/static/media/volleyballimg.5e3cec89.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75fe6ba1.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.985a976a.chunk.js",
+    "static/css/main.985dc135.chunk.css",
+    "static/js/main.369f8815.chunk.js"
+  ]
+}
